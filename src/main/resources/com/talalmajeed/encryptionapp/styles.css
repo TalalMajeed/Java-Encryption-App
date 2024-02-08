@@ -1,0 +1,16 @@
+.title-button {
+    -fx-background-color: #7530cf;
+    -fx-text-fill: white;
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+    -fx-font-family: "Century Gothic";
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-padding: 10 20 10 20;
+    -fx-border-width: 0;
+}
+
+.label-font {
+    -fx-font-size: 20;
+    -fx-font-family: "Century Gothic";
+}
